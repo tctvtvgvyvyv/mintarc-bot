@@ -1,0 +1,6 @@
+{
+  "wallet_address": "bc1pyfxatt57qwkkrcjvrwrz0g3vtprwz732pwen69wze9g7eacqw96scnua88",
+  "min_amount_usd": 5,
+  "reward_multiplier": 3,
+  "countdown_days": 7
+}
